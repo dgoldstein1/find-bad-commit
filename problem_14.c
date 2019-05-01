@@ -41,7 +41,7 @@ int main() {
 		}
 	}
 
-	printf("%li\n", currNumber);
+	printf("%d\n", currNumber);
 	
 	return 0;
 }
