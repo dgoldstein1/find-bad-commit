@@ -33,7 +33,7 @@ int main() {
 	long currMax = 0;
 	long curr = 0;
 
-	for (int i = 1000000; i > 500000; i = i - 4) {
+	for (int i = 1000000; i > 500001; i = i - 4) {
 		curr = collatzSequenceLength(i);
 		if (curr > currMax) {
 			currNumber = i;
