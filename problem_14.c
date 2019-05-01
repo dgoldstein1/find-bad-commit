@@ -22,7 +22,7 @@ long collatzSequenceLength(long n) {
 	long count = 1;
 	while (n != 1) {
 		n = collatzSequence(n);
-		count ++;
+		count = count + 1;
 	}
 	return count;
 }
