@@ -1,9 +1,3 @@
-Project Euler.net
-Search ProblemsRSS Feed
-projecteuler.net
-
-Longest Collatz sequence
-
 Problem 14 [icon_info]Published on Friday, 5th April 2002, 06:00 pm; Solved by
 175455;
 Difficulty rating: 5%
