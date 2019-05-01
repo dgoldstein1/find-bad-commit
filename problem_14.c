@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /**
+ * 
  * helper for collatz sequence, performance actual sequence
  * the collatz sequence is an iterative sequence on integers :
  *
